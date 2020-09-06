@@ -23,7 +23,7 @@
 - 陈数
 - 未完待续
 
-学过的编程语言有[HTML] [CSS] [JavaScript]。我写一段给你瞧瞧吧
+学过的编程语言有`HTML` `CSS` `JavaScript`。我写一段给你瞧瞧吧
 
 ```
 function f(){
